@@ -11,5 +11,14 @@ body {
 }
 
 header {
-    float: left;
+}
+
+#header_img {
+    background-image: url('../img/site_header.png');
+    height: 162px;
+}
+
+#header_menu {
+    background-color: #00aeef;
+    height: 44px;
 }
