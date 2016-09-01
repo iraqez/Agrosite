@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+* {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+
+body {
+    width: 100%;
+    min-width: 1000px;
+}
+
+header {
+    width: 100%;
+    float: left;
+}
